@@ -1,3 +1,35 @@
+# 🎨 Gradient Generator App  
+
+👋 Namaste developers! Ye project ek **Gradient Generator** hai jisme aap **Linear ya Radial gradients** generate kar sakte ho with just one click.  
+Aur sabse best part? Ek click se **CSS code copy** ho jata hai clipboard par ✅  
+
+---
+
+## ✨ Features / Kya Milega?
+- 🎲 **Random Gradient Generation** – Har click par naye naye rang birange gradients  
+- ↔️ **Linear & Radial Options** – Apni pasand ka gradient choose karo  
+- 🖱️ **One-Click Copy** – CSS code clipboard pe direct copy  
+- 🔥 **React + TailwindCSS** – Modern aur stylish UI  
+
+---
+
+## 🏗️ Tech Stack
+- ⚛️ **React** – Frontend framework  
+- 🎨 **Tailwind CSS** – Styling super easy  
+- 🍞 **react-toastify** – Toast notifications for copy success  
+- 🖥️ **JavaScript (ES6)**  
+
+---
+
+
+
+
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
